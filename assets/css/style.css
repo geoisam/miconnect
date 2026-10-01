@@ -273,12 +273,12 @@ ul li {
 }
 
 footer {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  padding-top: 1rem !important;;
+  padding-bottom: 1rem !important;;
 }
 
 .copyright div {
-  font-size: 0.85rem;
-  padding-top: 0.25rem;
-  padding-bottom: 0.25rem;
+  font-size: 0.85rem !important;;
+  padding-top: 0.25rem !important;;
+  padding-bottom: 0.25rem !important;;
 }
