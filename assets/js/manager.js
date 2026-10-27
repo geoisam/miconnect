@@ -2,6 +2,12 @@
 const manager = [
     // HyperOS 4
     {
+        "version": "6.0.0.39",
+        "name": "XiaomiPCManager_dev_6.0.0.39.exe",
+        "size": 814047984,
+        "src": "",
+    },
+    {
         "version": "5.8.1.130",
         "name": "TS4L_XiaomiPCManager_feature_p52_5.8.1.130_b5a04836.exe",
         "size": 766644624,
