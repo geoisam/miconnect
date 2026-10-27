@@ -3,6 +3,12 @@
 const continuity = [
     // Windows 10+
     {
+        "version": "2.0.3-566.production",
+        "name": "HEh3_HyperConnect_AI.exe",
+        "size": 427186344,
+        "src": "https://cdn.cnbj1.fds.api.mi-img.com/ota-packages/HEh3_HyperConnect_AI.exe",
+    },
+    {
         "version": "2.0.2-524.production",
         "name": "bcT-_小米互联服务-2.0.2-524.production.exe",
         "size": 426820904,
