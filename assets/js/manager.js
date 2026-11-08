@@ -2,6 +2,12 @@
 const manager = [
     // HyperOS 4
     {
+        "version": "6.0.2.30",
+        "name": "ZOj6_XiaomiPCManager_hotfix_19_6.0.2.30_acb3c61c.exe",
+        "size": 832570408,
+        "src": "https://cdn.cnbj1.fds.api.mi-img.com/ota-packages/ZOj6_XiaomiPCManager_hotfix_19_6.0.2.30_acb3c61c.exe",
+    },
+    {
         "version": "6.0.2.19",
         "name": "94m-_XiaomiPCManager_main_6.0.2.19_c379be90.exe",
         "size": 832749856,
